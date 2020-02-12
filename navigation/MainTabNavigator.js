@@ -43,6 +43,7 @@ const LinksStack = createStackNavigator(
   config
 );
 
+
 LinksStack.navigationOptions = {
   tabBarLabel: 'Links',
   tabBarIcon: ({ focused }) => (
